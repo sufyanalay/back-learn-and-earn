@@ -1,0 +1,8 @@
+Django==5.0.2
+djangorestframework==3.14.0
+djangorestframework-simplejwt==5.3.0
+django-cors-headers==4.3.1
+channels==4.0.0
+daphne==4.0.0
+pillow==10.2.0
+python-magic==0.4.27
